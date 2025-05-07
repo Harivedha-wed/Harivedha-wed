@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://linkedin.com/in/Hari Narayanan.R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hariee" height="30" width="40" /></a>
 <a href="https://fb.com/Harivedha Hari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hariee" height="30" width="40" /></a>
-<a href="https://instagram.com/hxriee.preetzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hariee" height="30" width="40" /></a>
+<a href="https://instagram.com/hxriiee.preetzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hariee" height="30" width="40" /></a>
 </p>
 
 <br />
