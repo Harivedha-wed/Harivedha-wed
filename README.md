@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
+<a href="https://www.instagram.com/hxriiee.preetzz?igsh=MTBwNjJ5M2VhNHBo" target="blank">
 
 </p>
 
