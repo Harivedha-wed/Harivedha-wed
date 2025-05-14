@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2E2E2E&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Hari+Narayanan.;Im+a+Java+Fullstack+Developer+and+Software+Engineer.;Currently+Studying+at+Anna+University+In+Second+Year.;Passionate+about+building+scalable+applications+and+delivering+impactful+solutions.;Always+learning+and+growing+in+the+world+of+Web+Development+and+Technology.;Let’s+build+the+future+of+the+web+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2E2E2E&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Hari+Narayanan.;Im+a+Java+Fullstack+Developer+and+Software+Engineer.;CCurrently+Studying+At+Anna+University+In+Second+Year.;Passionate+about+building+scalable+applications+and+delivering+impactful+solutions.;Always+learning+and+growing+in+the+world+of+Web+Development+and+Technology.;Let’s+build+the+future+of+the+web+together!)](https://git.io/typing-svg)
 ## Hi there 👋
 
 
